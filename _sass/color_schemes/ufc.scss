@@ -1,7 +1,6 @@
 $baby-powder: #FDFFFC;
-$midnight-blue: #000B52;
-$coquelicot: #FC440F;
-
+$midnight-blue: #EF476F;
+$coquelicot: #26547C;
 
 $body-background-color: $baby-powder;
 $sidebar-color: $midnight-blue;
@@ -9,7 +8,7 @@ $border-color: $grey-dk-200;
 
 $body-text-color: $grey-dk-100 !default;
 $body-heading-color: $grey-dk-200;
-$nav-child-link-color: $grey-dk-000;
+$nav-child-link-color: darken($baby-powder, 15%);
 $search-result-preview-color: $grey-dk-000;
 
 $link-color: $coquelicot;
