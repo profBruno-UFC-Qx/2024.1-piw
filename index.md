@@ -12,6 +12,7 @@ Está página é dedicada a disciplina de **Projeto de Interfaces Web**.
 Aqui disponibilizarei as vídeos aulas das disciplinas bem como a notas de aula. 
 Utilizaremos esta página juntamente com o nosso discord.
 
+<!--
 Claro, vou detalhar o assunto de cada vídeo em cada semana do curso:
 
 **Semana 01: Introdução ao Desenvolvimento Web Backend**
@@ -98,9 +99,7 @@ Claro, vou detalhar o assunto de cada vídeo em cada semana do curso:
    - Desenvolvimento prático de uma aplicação utilizando MVC, ORM e template engine.
 
 **Semana 05: Introdução ao TypeScript e Aprofundando no Nest.js**
-1. **V
-
-ídeo 1: Introdução ao TypeScript (15 minutos):**
+1. **Vídeo 1: Introdução ao TypeScript (15 minutos):**
    - Conceitos básicos de TypeScript.
    - Diferenças em relação ao JavaScript.
 
@@ -215,3 +214,4 @@ Claro, vou detalhar o assunto de cada vídeo em cada semana do curso:
 3. **Vídeo 3: Desafios de Escalabilidade (15 minutos):**
    - Discussão sobre desafios e estratégias relacionadas à escalabilidade.
    - Técnicas para otimizar o desempenho em ambientes de
+-->

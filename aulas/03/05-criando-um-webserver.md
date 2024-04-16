@@ -1,7 +1,7 @@
 ---
 title: 05. Servindo uma página web com NodeJs
 parent: Aula 03 - Um mundo estático
-nav_order: 3
+nav_order: 5
 youtubeId: 2BfH_xtZDd4
 next: ../04/
 ---

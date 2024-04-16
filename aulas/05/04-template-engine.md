@@ -1,9 +1,8 @@
 ---
-title: 01. Introdução ao Express
-parent: Aula 05 - Fundamentos de Express
-nav_order: 1
-youtubeId: mLkAzARSV30
-next: 02-iniciando-um-projeto
+title: 04. Template Engine
+parent: Aula 05 - Criando páginas dinâmicas modernas
+nav_order: 4
+next: ../06
 ---
 
 {% assign title = page.title | split: "." %}
@@ -20,8 +19,6 @@ next: 02-iniciando-um-projeto
   <a href="https://www.icloud.com/keynote/0GDTVZX4m6lppt1uxjntVY2Yg#07-JavaScript-na-web" class="btn" target="_blank">Notas de aula com animações</a>
 </span>
 -->
-
-{% include youtubePlayer.html id=page.youtubeId %}
 
 <span class="fs-3 float-right">
 [Próxima aulas]({{page.next}}){: .btn }

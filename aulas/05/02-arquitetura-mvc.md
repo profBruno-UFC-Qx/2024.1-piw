@@ -1,9 +1,9 @@
 ---
-title: 04. Arquitetura MVC
-parent: Aula 05 - Fundamentos de Express
-nav_order: 4
+title: 02. Arquitetura MVC
+parent: Aula 05 - Criando páginas dinâmicas modernas
+nav_order: 2
 youtubeId: PktDvKuteiI
-next: 05-adicionando-express-node
+next: 03-fundamentos-de-express
 ---
 
 {% assign title = page.title | split: "." %}

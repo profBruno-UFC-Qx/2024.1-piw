@@ -1,9 +1,8 @@
 ---
-title: Aula 05 - Fundamentos de Express
+title: Aula 05 - Criando páginas dinâmicas modernas
 nav_order: 5
 has_children: true
 has_toc: false
-youtubeId: 9VdaOJZR5L0
 next: 01-introducao
 ---
 
@@ -14,11 +13,9 @@ next: 01-introducao
 ### Recurso
 
 <span class="fs-3">
-  <a href="{{site.baseurl}}/assets/downloads/05-Fundamentos-de-Express.pdf" class="btn" target="_blank">Notas de aula</a>
+  <a href="{{site.baseurl}}/assets/downloads/05-Criando-paginas-dinamicas-modernas.pdf" class="btn" target="_blank">Notas de aula</a>
 <!--  <a href="https://www.icloud.com/keynote/0ZcLDhsc3H0ViHx_ZJuH-bKnw#10-Fundamentos-de-Express" class="btn" target="_blank">Notas de aula com animações</a>-->
 </span>
-
-{% include youtubePlayer.html id=page.youtubeId %}
 
 <span class="fs-3 float-right">
 [Próxima aulas]({{page.next}}){: .btn }
