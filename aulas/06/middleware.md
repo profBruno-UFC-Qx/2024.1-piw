@@ -1,14 +1,14 @@
 ---
-title: 03. Middleware
-parent: Aula 05 - Fundamentos de Express
-nav_order: 3
+title: Middlewares
+parent: Aula 06 - Criando APIs REST
+nav_order: 1
 youtubeId: T9CstlekQtg
-next: 04-arquitetura-mvc
+next: ../07
 ---
 
 {% assign title = page.title | split: "." %}
 
-## {{ title | slice: 1 }}
+##  {{ title | slice: 0 }}
 
 {% comment %}
 ### Recurso
