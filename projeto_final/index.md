@@ -136,7 +136,7 @@ Você deve fazer com que esta pasta seja um projeto **Nodejs** configurado para 
 Nesta etapa o seu backend deve responder a qualquer requisição da mesma forma. A resposta deve conter
 um código HTML, que contém a descrição do seu projeto final e os nomes dos autores.
 
-<span class="label label-blue">Vale 0.5 pontos</span>
+<span class="label label-blue">Vale 0.5 pontos</span> <span class="label label-red">Data de entrega: 15/04/24 às 6:00</span>
 
 ### Entrega 02: API REST de usuários <a name="back02"></a>
 
