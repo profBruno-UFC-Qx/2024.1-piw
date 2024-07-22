@@ -136,7 +136,7 @@ Você deve fazer com que esta pasta seja um projeto **Nodejs** configurado para 
 Nesta etapa o seu backend deve responder a qualquer requisição da mesma forma. A resposta deve conter
 um código HTML, que contém a descrição do seu projeto final e os nomes dos autores.
 
-<span class="label label-blue">Vale 0.5 pontos</span> <span class="label label-red">Data de entrega: 15/04/24 às 6:00</span>
+<span class="label label-blue">Vale 0.5 pontos</span> <span class="label label-red">Data de entrega: 23/07/24 às 6:00</span>
 
 ### Entrega 02: API REST de usuários <a name="back02"></a>
 
@@ -151,7 +151,7 @@ Portanto, ela deve fornecer ENDPOINT capazes de:
 
 Nesta entrega ainda não faremos o uso de um banco de dados. Logo, você pode simular o banco de dados guardando os dados em um JSON.
 
-<span class="label label-blue">Vale 1 ponto</span>
+i<span class="label label-blue">Vale 1 ponto</span> <span class="label label-red">Data de entrega: 05/08/24 às 6:00</span>
 
 ### Entrega 03: Salvando as informações no banco de dados <a name="back03"></a>
 
@@ -160,7 +160,7 @@ um banco de dados **SQLITE**. Para isso você deve fazer uso de um **ORM - Objec
 
 Em termos de funcionalidade, o seu backend continuará igual a versão da entrega anterior, porém agora ele estará realmente persistindo os dados da aplicação.
 
-<span class="label label-blue">Vale 1 ponto</span>
+<span class="label label-blue">Vale 1 ponto</span> <span class="label label-red">Data de entrega: 12/07/24 às 6:00</span>
 
 ### Entrega 04: Autenticação e Autorização <a name="back04"></a>
 
