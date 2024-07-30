@@ -1,10 +1,10 @@
 ---
-title: Aula 07 - Introdução aos bancos de dados
-nav_order: 7
+title: Aula 08 - Autenticação e Autorização
+nav_order: 8
 has_children: false
 has_toc: false
 youtubeId: 
-next: ../08
+next: ../09
 ---
 
 {% assign title = page.title | split: "-" %}
@@ -14,7 +14,7 @@ next: ../08
 ### Recurso
 
 <span class="fs-3">
-  <a href="{{site.baseurl}}/assets/downloads/07-Introdução-aos-bancos-de-dados.pdf" class="btn" target="_blank">Notas de aula</a>
+  <a href="{{site.baseurl}}/assets/downloads/08-Autenticacao-e-Autorizacao.pdf" class="btn" target="_blank">Notas de aula</a>
 <!--  <a href="https://www.icloud.com/keynote/0vGSUyeYDqiIPQYHqHpQubOAA#09-Fundamentos-de-NodeJS" class="btn" target="_blank">Notas de aula com animações</a> -->
 </span>
 
