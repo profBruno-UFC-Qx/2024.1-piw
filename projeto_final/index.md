@@ -151,7 +151,7 @@ Portanto, ela deve fornecer ENDPOINT capazes de:
 
 Nesta entrega ainda não faremos o uso de um banco de dados. Logo, você pode simular o banco de dados guardando os dados em um JSON.
 
-i<span class="label label-blue">Vale 1 ponto</span> <span class="label label-red">Data de entrega: 05/08/24 às 6:00</span>
+<span class="label label-blue">Vale 1 ponto</span> <span class="label label-red">Data de entrega: 05/08/24 às 6:00</span>
 
 ### Entrega 03: Salvando as informações no banco de dados <a name="back03"></a>
 
@@ -170,7 +170,8 @@ por meio da tecnologia **JWT - Json Web Token**.  Com isso você deve alterar a 
   - O ENDPOINT de **atualizar usuário** devem ser acessíveis somente para **usuários autenticados**. Um usuário só pode atualizar o seu próprio cadastro.
   - O ENDPOINT de **criar usuário** deve ser **público**.
 
-<span class="label label-blue">Vale 1 ponto</span>
+<span class="label label-blue">Vale 1 ponto</span> <span class="label label-red">Data de entrega: 26/08/24 às 6:00</span>
+
 
 <!--
 ### Entrega 05: Regras de negócios implementadas <a name="back05"></a>
