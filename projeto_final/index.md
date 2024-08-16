@@ -166,9 +166,8 @@ Em termos de funcionalidade, o seu backend continuará igual a versão da entreg
 
 Nesta entrega você deverá configurar o seu **backed** para que ele seja capaz de autenticar e posteriormente autorizar usuários
 por meio da tecnologia **JWT - Json Web Token**.  Com isso você deve alterar a API do backend para que:
-  - Os ENDPOINT de **listar usuários, remover usuários** sejam acessíveis somente para usuários **adminstradores**.
-  - O ENDPOINT de **atualizar usuário** devem ser acessíveis somente para **usuários autenticados**. Um usuário só pode atualizar o seu próprio cadastro.
-  - O ENDPOINT de **criar usuário** deve ser **público**.
+  - Os ENDPOINT de **criar usuário, listar usuários, remover usuários** sejam acessíveis somente para usuários **adminstradores**.
+  - Os ENDPOINT de **atualizar usuário e listar um usuário** devem ser acessíveis somente para **usuários autenticados**. No entanto, **Um usuário não administrador  só pode atualizar o seu próprio cadastro.**
 
 <span class="label label-blue">Vale 1 ponto</span> <span class="label label-red">Data de entrega: 26/08/24 às 6:00</span>
 
