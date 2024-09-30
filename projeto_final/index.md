@@ -37,12 +37,36 @@ O trabalho pode ser feito em equipe
 
 ## Requisitos mínimos <a name="req"></a>
 
-- O **frontend** da aplicação web deve ser implementado fazendo **OBRIGATORIAMENTE** uso das bibiliotecas **VueRouter** e **Pinia**. 
+
+### Frontend
+
 - O **frontend** deve ser uma **SPA – Single Page Application** e sua página principal deve exibida automaticamente ao acessar a raiz da aplicação (**/**).
+- O **frontend** da aplicação web deve ser implementado utilizando a **Composition API** do **Vue** com Vite.
+ 
+Não serão aceitos trabalhos implementados usando **Option API**.  Para mais detalhes  <a href="https://medium.com/@victor.souza2210/vue-js-composition-api-vs-options-api-qual-abordagem-escolher-a50a2f2f932b" target="_blank">leia este artigo</a>.
+{: .label .label-red }
+
+- O **frontend** da aplicação web deve ser implementado fazendo **OBRIGATORIAMENTE** uso das bibiliotecas **VueRouter** e **Pinia**. 
+  - As rotas do frontend não podem ser todas públicas.
+
+Não serão aceitos trabalhos implementados usando VUEX.
+{: .label .label-red }
+
+- O fronted deve ser **modularizar os trechos de HTML usados em várias páginas**. 
+    - Exemplo: Deixar cabeçalho e rodapé em arquivos separados e incluí-los nas páginas onde serão necessários.
+
+
+
+### Backend
+
 - O **backend** (API REST) com o qual a sua aplicação deve se comunicar deve ser construído utilizando o <a href="https://expressjs.com/" target="_blank">Express</a>.
+- O **backend** deverá ter pelos um endpoint com paginação
+- O **backend** deverá ter pelos um endpoint com opção de filtragem
 - O **backend** deve forncener um serivço de autenticação e autorização via **JWT**. 
 - Os dados da aplição devem ser armezandos em um banco de dados **SQLITE**.
  
+ 
+### Conjunto da obra
 - A sua aplicação deve possuir pelo menos ***x* entidades (tabelas)**, onde :
 <div>
 \[x =
@@ -54,6 +78,7 @@ O trabalho pode ser feito em equipe
 </div>
 
 - A aplicação deve implementar os CRUDs de pelo menos **DUAS** dessas tabelas.
+  - **Uma das entidades deve ser dependende da outra**, os CRUDs não podem ser totalmente independentes 
   - Para trabalhos em equipe com **mais de dois membros**, as regras de negócio serão avaliada para verificar a elegibilidade do projeto.
 - A aplicação deve possuir pelo menos **3 papéis de usuários** de forma que todos os **papéis** possuam permissões diferentes.
 - A aplicação deve possuir uma **área pública com páginas/serviços acessíveis a todos; e uma área restrita com páginas/serviços acessíveis somente a usuários autenticados**.
@@ -61,7 +86,7 @@ O trabalho pode ser feito em equipe
 
 ### Atenção
   
-O projeto que vai ser desenvolvido deve ser hospedado no <a href="http://www.github.com" target="_blank">GitHub</a>.
+O código do projeto que vai ser desenvolvido deve ser hospedado no <a href="http://www.github.com" target="_blank">GitHub</a>.
 {: .label .label-yellow }
 
 Caso o trabalho seja feito em equipe, cada membro da equipe deve usar seu próprio usuário para escrever código.
